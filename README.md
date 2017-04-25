@@ -1,6 +1,6 @@
 # npmtest-protractor-html-screenshot-reporter
 
-#### test coverage for  [protractor-html-screenshot-reporter (v0.0.21)](https://github.com/jintoppy/protractor-html-screenshot-reporter)  [![npm package](https://img.shields.io/npm/v/npmtest-protractor-html-screenshot-reporter.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-protractor-html-screenshot-reporter) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-protractor-html-screenshot-reporter.svg)](https://travis-ci.org/npmtest/node-npmtest-protractor-html-screenshot-reporter)
+#### basic test coverage for  [protractor-html-screenshot-reporter (v0.0.21)](https://github.com/jintoppy/protractor-html-screenshot-reporter)  [![npm package](https://img.shields.io/npm/v/npmtest-protractor-html-screenshot-reporter.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-protractor-html-screenshot-reporter) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-protractor-html-screenshot-reporter.svg)](https://travis-ci.org/npmtest/node-npmtest-protractor-html-screenshot-reporter)
 
 #### An npm module and grunt plugin which generates your Protractor test reports in HTML with screenshots
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-protractor-html-screenshot-reporter/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-protractor-html-screenshot-reporter/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-protractor-html-screenshot-reporter/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-protractor-html-screenshot-reporter/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-protractor-html-screenshot-reporter/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-protractor-html-screenshot-reporter/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-protractor-html-screenshot-reporter/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-protractor-html-screenshot-reporter/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-protractor-html-screenshot-reporter/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-protractor-html-screenshot-reporter/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-protractor-html-screenshot-reporter/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-protractor-html-screenshot-reporter/build/coverage.html/index.html)
 
@@ -77,7 +77,8 @@
         "url": "git+https://github.com/jintoppy/protractor-html-screenshot-reporter.git"
     },
     "scripts": {},
-    "version": "0.0.21"
+    "version": "0.0.21",
+    "bin": {}
 }
 ```
 
